@@ -2,8 +2,8 @@
 
 # 🚇 MetroRail App – E-Ticketing & Smart Boarding System
 ## 📚 Course: Critical Thinking, Design Thinking, Leadership and Framework
-## 🎓 College: Chitkara University
-## 👨‍🎓 Batch: Batch No. 5
+## 🎓 College: Haridwar University
+## 👨‍🎓 Batch: Batch No. 9
 
 ### 🔧 Project Tasks Overview
 
